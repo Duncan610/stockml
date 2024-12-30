@@ -13,9 +13,6 @@ def get_requirements(file_path:str)->List[str]:
             requirements.remove(dot_e)
 
         return requirements
-    
-    i
-
 
 setup(
     name="stockml",
